@@ -15,7 +15,7 @@ def load_problems(file_path):
 
 # Main App
 def main():
-    st.title("Muhammad Math Challenge")
+    st.subheader("Muhammad Math Challenge")
 
     # File to save problems
     file_path = "math_problems.csv"
